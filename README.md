@@ -40,7 +40,7 @@ Github Project Link : https://https://github.com/nandakrishnan1311/finalproj
 ## IDE Used
     VS CODE
     
-    ## screen Shots of the website after deploying.
+## screen Shots of the website after deploying.
     
      ## Home Page
      ![Screenshot (25)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/5f41571a-4771-423a-a2fa-4ce25e59c052)
