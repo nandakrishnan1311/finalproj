@@ -42,7 +42,7 @@ Github Project Link : https://https://github.com/nandakrishnan1311/finalproj
     
 ## screen Shots of the website after deploying.
     
-     ## Home Page
+   ## Home Page
      ![Screenshot (25)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/5f41571a-4771-423a-a2fa-4ce25e59c052)
      
      ![Screenshot (26)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/18ff1469-6440-480f-9dde-a9d8492508fa)
@@ -57,7 +57,7 @@ Github Project Link : https://https://github.com/nandakrishnan1311/finalproj
      
      ![Screenshot (31)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/ab13cb4c-b05d-4341-9ae3-4d0d7d2e930f)
      
-      ## About Us Page
+   ## About Us Page
       ![Screenshot (32)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/b3fd8811-a991-47b8-842c-7619a3ec2e3e)
       
       ![Screenshot (33)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/c9f7683e-bd82-40e8-a730-086cc0f16db2)
@@ -70,7 +70,7 @@ Github Project Link : https://https://github.com/nandakrishnan1311/finalproj
       
       ![Screenshot (37)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/cd250afb-caee-468f-a6e7-7905470fc309)
       
-      ## Courses Page
+   ## Courses Page
       ![Screenshot (38)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/1c73b1e3-96e8-4e09-8066-9ad7c5fb2c29)
       
       ![Screenshot (39)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/0da1dfed-6df3-4e43-9772-2a87916cc1e6)
@@ -81,7 +81,7 @@ Github Project Link : https://https://github.com/nandakrishnan1311/finalproj
       
       ![Screenshot (42)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/72323ace-9248-486d-b8f5-34a376aa8791)
       
-      ## Contact Us Page
+   ## Contact Us Page
       ![Screenshot (43)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/22068470-76eb-4a72-8f35-4610406097a3)
       
       ![Screenshot (44)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/552dbee5-dd97-4b5a-acf8-345e54a48f2c)
