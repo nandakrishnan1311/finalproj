@@ -2,9 +2,9 @@
 # This is my final project.
 # This is the project that i built for completing my future ready talent internship program
 
-Project Link : https://https://nandakrishnan1311.github.io/finalproj/
+Project Link : https://nandakrishnan1311.github.io/finalproj/
 
-Github Project Link : https://https://github.com/nandakrishnan1311/finalproj
+Github Project Link : https://github.com/nandakrishnan1311/finalproj
 
 
 
