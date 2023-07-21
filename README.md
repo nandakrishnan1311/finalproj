@@ -6,7 +6,7 @@ Project Link : https://nandakrishnan1311.github.io/finalproj/
 
 Github Project Link : https://github.com/nandakrishnan1311/finalproj
 
-
+AZURE Link:https://blue-mud-088749a10.3.azurestaticapps.net
 
 # Industry
     Ed-tech
