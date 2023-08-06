@@ -58,51 +58,49 @@ AZURE Link:https://blue-mud-088749a10.3.azurestaticapps.net
 ## screen Shots of the website after deploying.
     
    ## Home Page
- ![Screenshot (25)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/5f41571a-4771-423a-a2fa-4ce25e59c052)
-     
- ![Screenshot (26)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/18ff1469-6440-480f-9dde-a9d8492508fa)
-     
- ![Screenshot (27)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/f2b29769-af37-4bea-a65d-4cfe1b287ed2)
-     
- ![Screenshot (28)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/3bb052fc-82e6-4a23-935e-f482bab22563)
-     
- ![Screenshot (29)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/ffea6df0-98ce-4d4c-a603-08210f3c207d)
-     
- ![Screenshot (30)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/aef6cf4d-5e88-48c1-8439-a16dcf505b02)
-     
- ![Screenshot (31)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/ab13cb4c-b05d-4341-9ae3-4d0d7d2e930f)
-     
+ ![Screenshot (49)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/699686c5-f9d6-4cc7-a3e1-23a722df7a6b)
+
+ ![Screenshot (50)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/fba87f28-3889-403c-95a0-a30863dea721)
+
+ ![Screenshot (51)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/b6d4a374-ea18-42fd-a5bf-2b58c6298819)
+
+ ![Screenshot (52)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/8f4f51e2-3eb3-4a26-a0b4-168d633bf029)
+  
+ ![Screenshot (53)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/12cc7f39-cac5-46bd-9f13-7a75962236dc)
+
+ ![Screenshot (54)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/d19bd7e0-bd57-4a9a-b26c-8725b7fa41e1)
+ 
+
    ## About Us Page
- ![Screenshot (32)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/b3fd8811-a991-47b8-842c-7619a3ec2e3e)
-      
- ![Screenshot (33)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/c9f7683e-bd82-40e8-a730-086cc0f16db2)
-      
- ![Screenshot (34)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/9b9c2e3f-5b66-4850-8f29-beff95dbf7b4)
-      
- ![Screenshot (35)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/022e96c5-057a-4a98-afb5-f9268088dd6e)
-      
- ![Screenshot (36)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/9e27e5ae-67cd-4b42-b2c2-0064ed95ef4d)
-      
- ![Screenshot (37)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/cd250afb-caee-468f-a6e7-7905470fc309)
-      
+ ![Screenshot (55)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/e1c8e89e-af5b-4df4-ad7d-8e0d4f297e23)
+
+ ![Screenshot (56)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/7d95576d-a7a9-4840-9013-ab60736a4a56)
+
+ ![Screenshot (57)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/43384b32-ecb8-4297-a93c-2429f8192844)
+
+ ![Screenshot (58)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/307e8003-0d14-455f-9ef3-952aabe0cb7e)
+     
+ ![Screenshot (59)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/7b1144d8-c019-4dda-b0b4-03bce37a9493)
+   
+ ![Screenshot (60)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/4750385c-747c-4d75-bbf2-f4ee58e1d9e2)
+
+    
    ## Courses Page
-  ![Screenshot (38)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/1c73b1e3-96e8-4e09-8066-9ad7c5fb2c29)
-      
-  ![Screenshot (39)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/0da1dfed-6df3-4e43-9772-2a87916cc1e6)
-      
-  ![Screenshot (40)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/6b0badd5-3667-4dd6-92b5-8418f52cdf6c)
-      
-  ![Screenshot (41)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/3fe29d49-f80f-4626-aa2c-9e572ce1558f)
-      
-  ![Screenshot (42)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/72323ace-9248-486d-b8f5-34a376aa8791)
+  ![Screenshot (61)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/69f5fdb7-ef9d-430c-ade1-81208f9ac985)
+  
+  ![Screenshot (62)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/e903c2f1-c6a8-44d1-af7e-2053d9e305ba)
+
+  ![Screenshot (63)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/ceccbe5e-17d2-454f-865b-8e04e9e6743b)
+
+  ![Screenshot (64)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/d3392c6c-6c6f-4af6-b545-bc6ed6bbcbbb)
       
    ## Contact Us Page
-  ![Screenshot (43)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/22068470-76eb-4a72-8f35-4610406097a3)
-      
-  ![Screenshot (44)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/552dbee5-dd97-4b5a-acf8-345e54a48f2c)
-      
-  ![Screenshot (45)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/e4fcfe3e-5e33-4db5-960f-1765a94497f2)
-      
-  ![Screenshot (46)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/3f4ee04e-f515-4c42-8a64-cc3b77a47f06)
-      
-  ![Screenshot (47)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/aad1c066-9d99-4803-beb6-74a0c7eafecd)
+  ![Screenshot (65)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/7d51f2a0-0d06-45e0-96f3-aa3dbd6bec4f)
+
+  ![Screenshot (66)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/7a7e50a1-69ea-47d2-ae94-e27e4cad1e78)
+
+  ![Screenshot (67)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/79fad54e-f4b2-434d-9d7e-1898f381a3f4)
+
+  ![Screenshot (68)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/074f93f0-3528-4b91-b5be-2fd28a7aadd9)
+
+
