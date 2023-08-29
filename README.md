@@ -1,4 +1,4 @@
-# finalproj
+![Screenshot (75)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/183b49ef-a1e2-4438-b7d4-3f4c0b784a58)![Screenshot (72)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/1e9db1f2-486b-4312-b704-d8207354a76d)![Screenshot (72)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/34b1bb1b-9cc6-48d4-b4c3-71a181cfe6fd)![Screenshot (75)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/124142b7-c6fc-4705-9f46-d2895c0224f4)![Screenshot (71)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/83ad9595-7721-4b9d-befd-8016de6f3cf0)![Screenshot (73)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/624572d8-9afe-4544-8eaa-3e1420115f2e)![Screenshot (76)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/29ea1d7d-42d8-430b-b574-69765fe29761)# finalproj
 # This is my final project.
 # This is the project that i built for completing my future ready talent internship program
 
@@ -12,7 +12,7 @@ AZURE Link:https://blue-mud-088749a10.3.azurestaticapps.net
     Ed-tech
     
 # Project Title
-    Edukator
+    EduHub
 
 ## Problem Ststement/Oppertuniety
     Current online learning platforms lack easy course access, simple admission processes, fast learning experiences, and affordability,
@@ -22,7 +22,7 @@ AZURE Link:https://blue-mud-088749a10.3.azurestaticapps.net
     
 
 ## project description
-    Edukator is an innovative online learning platform designed to revolutionize education accessibility and effectiveness. With a focus
+    EduHub is an innovative online learning platform designed to revolutionize education accessibility and effectiveness. With a focus
     on user-friendliness, the platform offers seamless course access and simplified admission processes, ensuring that learners can 
     quickly enroll in their desired courses.
 
@@ -58,31 +58,24 @@ AZURE Link:https://blue-mud-088749a10.3.azurestaticapps.net
 ## screen Shots of the website after deploying.
     
    ## Home Page
- ![Screenshot (49)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/699686c5-f9d6-4cc7-a3e1-23a722df7a6b)
-
- ![Screenshot (50)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/fba87f28-3889-403c-95a0-a30863dea721)
-
- ![Screenshot (51)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/b6d4a374-ea18-42fd-a5bf-2b58c6298819)
-
- ![Screenshot (52)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/8f4f51e2-3eb3-4a26-a0b4-168d633bf029)
-  
- ![Screenshot (53)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/12cc7f39-cac5-46bd-9f13-7a75962236dc)
-
- ![Screenshot (54)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/d19bd7e0-bd57-4a9a-b26c-8725b7fa41e1)
  
+![Screenshot (69)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/406af890-7436-46b8-99f1-1b8e3411ae94)
+![Screenshot (70)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/7f13e0fa-89b5-4856-9550-00c7bd3b739d)
+![Screenshot (71)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/c6aac434-1382-49f1-a454-9bc8b5b17c9d)
+![Screenshot (72)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/3c3138e1-dbc9-45a4-872a-49ca3c0c92ac)
+![Screenshot (73)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/cd2b22e3-b62d-494a-bc8a-9b2ab029350c)
+![Screenshot (74)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/45cb19b2-1280-4a64-8cb0-049894f2c6f3)
+![Screenshot (75)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/d58eb1b5-93c4-4972-9366-157729418bd4)
+![Screenshot (70)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/4cae79df-b8ac-4ba8-b34b-22ee785fedab)
+![Screenshot (72)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/4f9fe230-1b58-4a62-a8f8-7c4eb4edbc32)
+![Screenshot (74)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/b29d711e-77d5-487e-bea8-6e9bec162fd5)
+![Screenshot (76)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/6481c4f2-43f6-497f-8de8-47ecb77af146)
+
 
    ## About Us Page
- ![Screenshot (55)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/e1c8e89e-af5b-4df4-ad7d-8e0d4f297e23)
-
- ![Screenshot (56)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/7d95576d-a7a9-4840-9013-ab60736a4a56)
-
- ![Screenshot (57)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/43384b32-ecb8-4297-a93c-2429f8192844)
-
- ![Screenshot (58)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/307e8003-0d14-455f-9ef3-952aabe0cb7e)
-     
- ![Screenshot (59)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/7b1144d8-c019-4dda-b0b4-03bce37a9493)
-   
- ![Screenshot (60)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/4750385c-747c-4d75-bbf2-f4ee58e1d9e2)
+![Uploading Screenshot (74).png…]()
+![Uploading Screenshot (76).png…]()
+![Screenshot (73)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/fa71f4b7-01c4-4d5a-9c39-455d86d77ed0)
 
     
    ## Courses Page
