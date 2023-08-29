@@ -1,4 +1,4 @@
-![Screenshot (75)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/183b49ef-a1e2-4438-b7d4-3f4c0b784a58)![Screenshot (72)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/1e9db1f2-486b-4312-b704-d8207354a76d)![Screenshot (72)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/34b1bb1b-9cc6-48d4-b4c3-71a181cfe6fd)![Screenshot (75)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/124142b7-c6fc-4705-9f46-d2895c0224f4)![Screenshot (71)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/83ad9595-7721-4b9d-befd-8016de6f3cf0)![Screenshot (73)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/624572d8-9afe-4544-8eaa-3e1420115f2e)![Screenshot (76)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/29ea1d7d-42d8-430b-b574-69765fe29761)# finalproj
+
 # This is my final project.
 # This is the project that i built for completing my future ready talent internship program
 
@@ -73,27 +73,26 @@ AZURE Link:https://blue-mud-088749a10.3.azurestaticapps.net
 
 
    ## About Us Page
-![Uploading Screenshot (74).png…]()
-![Uploading Screenshot (76).png…]()
-![Screenshot (73)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/fa71f4b7-01c4-4d5a-9c39-455d86d77ed0)
+![Screenshot (77)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/47d27a8b-ebdf-45ee-b86d-2198cef3d24f)
+![Screenshot (78)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/92fb87d3-c22c-4c38-be02-0eb603791d90)
+![Screenshot (79)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/6ec3b1df-2946-454e-9395-b7f0b50832be)
+![Screenshot (80)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/cc687198-e7df-40e0-80ac-7e9fd46e7ce6)
+![Screenshot (81)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/fd9a8a38-515f-409f-bd23-37afc485ee5c)
+
 
     
    ## Courses Page
-  ![Screenshot (61)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/69f5fdb7-ef9d-430c-ade1-81208f9ac985)
-  
-  ![Screenshot (62)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/e903c2f1-c6a8-44d1-af7e-2053d9e305ba)
+  ![Screenshot (82)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/065c11bc-6efd-48ec-9107-839537fb489c)
+  ![Screenshot (83)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/7029d66c-f71e-496f-86aa-de450167769b)
+  ![Screenshot (84)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/ee90a8fd-a80d-4958-8b20-ec6024631dc7)
+  ![Screenshot (85)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/5e04b541-c1ee-492a-a966-d40e541e635d)
 
-  ![Screenshot (63)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/ceccbe5e-17d2-454f-865b-8e04e9e6743b)
-
-  ![Screenshot (64)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/d3392c6c-6c6f-4af6-b545-bc6ed6bbcbbb)
       
-   ## Contact Us Page
-  ![Screenshot (65)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/7d51f2a0-0d06-45e0-96f3-aa3dbd6bec4f)
+   
+## Contact Us Page
+  ![Screenshot (86)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/bab648cb-109c-4ce3-b326-122a3dc21d33)
+  ![Screenshot (87)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/d81fbad0-182d-414d-bd81-81d9b4d7aac5)
 
-  ![Screenshot (66)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/7a7e50a1-69ea-47d2-ae94-e27e4cad1e78)
+  ![Screenshot (88)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/44dd0c90-9654-41c2-b9c6-29178611b7fe)
 
-  ![Screenshot (67)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/79fad54e-f4b2-434d-9d7e-1898f381a3f4)
-
-  ![Screenshot (68)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/074f93f0-3528-4b91-b5be-2fd28a7aadd9)
-
-
+  ![Screenshot (89)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/90af6dc1-1c1a-4651-95d2-1add6f2b3453)
