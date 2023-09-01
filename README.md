@@ -69,7 +69,8 @@ AZURE Link:https://blue-mud-088749a10.3.azurestaticapps.net
 ![Screenshot (70)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/4cae79df-b8ac-4ba8-b34b-22ee785fedab)
 ![Screenshot (72)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/4f9fe230-1b58-4a62-a8f8-7c4eb4edbc32)
 ![Screenshot (74)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/b29d711e-77d5-487e-bea8-6e9bec162fd5)
-![Screenshot (76)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/6481c4f2-43f6-497f-8de8-47ecb77af146)
+![Screenshot (90)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/9e2c91e1-ddd3-43c6-b9d8-9fdb08c0df5d)
+
 
 
    ## About Us Page
@@ -77,7 +78,7 @@ AZURE Link:https://blue-mud-088749a10.3.azurestaticapps.net
 ![Screenshot (78)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/92fb87d3-c22c-4c38-be02-0eb603791d90)
 ![Screenshot (79)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/6ec3b1df-2946-454e-9395-b7f0b50832be)
 ![Screenshot (80)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/cc687198-e7df-40e0-80ac-7e9fd46e7ce6)
-![Screenshot (81)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/fd9a8a38-515f-409f-bd23-37afc485ee5c)
+
 
 
     
@@ -85,7 +86,7 @@ AZURE Link:https://blue-mud-088749a10.3.azurestaticapps.net
   ![Screenshot (82)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/065c11bc-6efd-48ec-9107-839537fb489c)
   ![Screenshot (83)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/7029d66c-f71e-496f-86aa-de450167769b)
   ![Screenshot (84)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/ee90a8fd-a80d-4958-8b20-ec6024631dc7)
-  ![Screenshot (85)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/5e04b541-c1ee-492a-a966-d40e541e635d)
+  
 
       
    
@@ -95,4 +96,4 @@ AZURE Link:https://blue-mud-088749a10.3.azurestaticapps.net
 
   ![Screenshot (88)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/44dd0c90-9654-41c2-b9c6-29178611b7fe)
 
-  ![Screenshot (89)](https://github.com/nandakrishnan1311/finalproj/assets/127665472/90af6dc1-1c1a-4651-95d2-1add6f2b3453)
+  
